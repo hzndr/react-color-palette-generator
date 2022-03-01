@@ -1,7 +1,5 @@
-# Face Recognition App 
+# Color Palette Generator
 
-Built with ```React```, ```Node.js```, ```Express.js``` and ```PostgreSQL```. This app uses Clarifai API to detect faces in photos. 
+Built with ```React``` and  Clarifai API. 
 
-This is a frontend part, backend part repo is available [here](https://github.com/hzndr/face-recognition-app-api).
-
-### Deployed on Heroku [Demo](https://face-recognition-app123.herokuapp.com/) 
+### Deployed on Netlify [Demo](https://face-recognition-app123.herokuapp.com/) 
